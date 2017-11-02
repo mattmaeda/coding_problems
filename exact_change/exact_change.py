@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# We want to make the exsat amount from a number of $1 bills and $5 bills.
+# We want to make the exact amount from a number of $1 bills and $5 bills.
 # Return True if it is possible to make the amount from the bills given and
 # False if not.  Try to do it without using loops
 
